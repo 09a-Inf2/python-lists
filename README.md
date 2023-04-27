@@ -8,3 +8,5 @@ Informiere dich unter folgenden Links über die Verwendung von Listen in Python
 5. [Über Listen iterieren](https://www.w3schools.com/python/python_lists_loop.asp)
 
 # Draw on Canvas
+
+Informiere dich (hier)[]
