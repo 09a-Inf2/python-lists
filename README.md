@@ -19,5 +19,5 @@ die Vorlage *change_color.py* im Ordner *Übungen*.
 Informiere dich [hier](https://py3.codeskulptor.org/docs.html#draw_circle) wie man in SimpleGUI mit keyboard-events umgeht.
 Informiere dich außerdem [hier](https://py3.codeskulptor.org/docs.html#Keys) über die SimpleGUI KEY_MAP-Konstante.
 
-1. Nutze die Vorlage *dynamic_radius.py* im Orner *Übungen*.
+1. Nutze die Vorlage *dynamic_radius.py* im Ordner *Übungen*.
 2. Schreibe ein Programm, welches durch Drücken der "up" Taste den Radius des Kreises um einen definierten Wert erhöht und durch Drücken der "down" Taste den Radius um eben diesen Wert verringet.
