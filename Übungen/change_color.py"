@@ -22,7 +22,10 @@ def draw(canvas):
 
 frame = simplegui.create_frame("Change Color", 300, 200)
 frame.set_draw_handler(draw)
-# Füge hier noch die buttons "red" und 
+# Füge hier noch die buttons "red" und "green" hinzu
+
+
+
 
 # Starte die Frame-Animation
 frame.start()
