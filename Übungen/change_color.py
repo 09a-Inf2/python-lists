@@ -7,8 +7,7 @@ ball_radius = 50
 ball_color = "red"
 
 # Button handler
-def keydown(key):
-  pass
+
 
 
 # Handler zum Zeichnen des Kreises
@@ -19,9 +18,9 @@ def draw(canvas):
 
 
 # Erzeuge frame und registriere event handler
-
 frame = simplegui.create_frame("Change Color", 300, 200)
 frame.set_draw_handler(draw)
+
 # Füge hier noch die buttons "red" und "green" hinzu
 
 
