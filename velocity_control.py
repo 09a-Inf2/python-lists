@@ -14,15 +14,7 @@ def draw(canvas):
     canvas.draw_circle(ball_pos, BALL_RADIUS, 2, "Red", "White")
 
 def keydown(key):
-    vel = 4
-    if key == simplegui.KEY_MAP["left"]:
-        ball_pos[0] -= vel
-    elif key == simplegui.KEY_MAP["right"]:
-        ball_pos[0] += vel
-    elif key == simplegui.KEY_MAP["down"]:
-        ball_pos[1] += vel
-    elif key == simplegui.KEY_MAP["up"]:
-        ball_pos[1] -= vel        
+   pass
     
 # create frame 
 frame = simplegui.create_frame("Positional ball control", WIDTH, HEIGHT)
