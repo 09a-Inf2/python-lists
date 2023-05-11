@@ -13,19 +13,10 @@ time = 0
 
 # define event handlers
 def tick():
-    global time
-    time = time + 1
+    pass
 
 def draw(canvas):
-    # create a list to hold ball position
-    ball_pos = [0, 0]
-
-    # calculate ball position
-    ball_pos[0] = init_pos[0] + time * vel[0]
-    ball_pos[1] = init_pos[1] + time * vel[1]
-    
-    # draw ball
-    canvas.draw_circle(ball_pos, BALL_RADIUS, 2, "Red", "White")
+    pass
 
 # create frame
 frame = simplegui.create_frame("Motion", WIDTH, HEIGHT)
